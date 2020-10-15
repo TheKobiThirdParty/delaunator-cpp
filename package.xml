@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>delaunator</name>
+  <version>0.4.0</version>
+  <description>
+     A really fast C++ library for Delaunay triangulation of 2D points
+  </description>
+
+  <maintainer email="denis@thekobi.com">Denis Cavalli</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
